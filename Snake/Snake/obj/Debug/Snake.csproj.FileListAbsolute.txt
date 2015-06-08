@@ -1,0 +1,1 @@
+E:\C#\Window store\WS2\Snake\Snake\bin\Debug\Snake.exe.config
